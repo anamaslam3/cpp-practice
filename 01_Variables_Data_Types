@@ -1,3 +1,5 @@
+Q09_Total_Marks.cpp 
+
 // Q: Calculate the total marks of three subjects.
 
 #include <iostream>
