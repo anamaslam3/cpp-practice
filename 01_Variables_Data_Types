@@ -1,1 +1,13 @@
+// Q: Calculate the total marks of three subjects.
 
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int English = 70, Hindi = 60, Math = 80;
+
+    cout << "total marks :" << English + Hindi + Math << endl;
+
+    return 0;
+}
