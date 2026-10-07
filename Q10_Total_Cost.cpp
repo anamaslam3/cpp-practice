@@ -5,6 +5,6 @@ using namespace std;
 int main()
 {
     int price = 60, Quantity = 40;
-    cout << price * Quantity << endl;
+    cout << "Total Cost : " << price * Quantity << endl;
     return 0;
 }
