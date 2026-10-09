@@ -1,4 +1,4 @@
-// Q02 - Store and print height, character, and boolean value
+
 // Q2. Store your height in a float and print it.
 // Q3. Store a character and print it.
 // Q4. Store a boolean value and print it.
