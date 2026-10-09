@@ -1,0 +1,12 @@
+//Q. Take two integers and print both.
+
+#include <iostream>
+using namespace std;
+int main()
+{
+     int age = 19;
+     int marks = 77;
+     cout<<age<<endl;
+     cout<<marks<<endl;
+    return 0;
+}
