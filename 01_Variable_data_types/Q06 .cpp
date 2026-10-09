@@ -7,7 +7,7 @@ int main()
 {
     string name = "Anam";
     int age = 19;
-    float height = 5.10;
+    float height = 5.11;
 
     cout << "Name: " << name << endl;
     cout << "Age: " << age << endl;
